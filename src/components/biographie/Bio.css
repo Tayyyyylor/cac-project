@@ -1,8 +1,10 @@
 .bio-container {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
 }
-
 
 .color-letter-capital {
     color: var(--blue);
@@ -21,4 +23,10 @@
 
 .text-bio {
     text-align: center;
+}
+
+.video-bio {
+    width: 800px;
+    height: 400px;
+    background-color: aquamarine;
 }

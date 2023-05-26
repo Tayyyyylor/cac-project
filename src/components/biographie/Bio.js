@@ -17,6 +17,7 @@ Ma famille a contribué à forger mon tempérament, j'y ai fait mes premières e
 Plus que la réussite à ces moments décisifs, importe surtout le meilleur souvenir déposé auprès de celle ou celui qui écoutera. Un souvenir très agréable et d'une rare sincérité marquera durablement la mémoire et créera la connexion, un lien suffisamment important et rare 
 
 Ainsi est né "De Coeur à Coeur " : Une démarche unique dont le but est la création ou la recréation d'un lien rare et important. Son logo est un leader indien d'Amérique du Nord, en réponse à mes influences. Le leader indien dont la présence même est de créer la connexion, l'entretenir afin de le guider.</p>
+    <div className="video-bio"></div>
     </article>
   )
 }

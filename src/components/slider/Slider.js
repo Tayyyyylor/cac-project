@@ -8,7 +8,7 @@ function Slider() {
     { src: "./slide2.jpg"},
     { src: "./slide3.jpg" },
     { src: "./slide4.jpg"},
-    { src: "./slide5.jpg"},
+    { src: "./slide5.png"},
     { src: "./slide6.jpg"},
     { src: "./slide7.jpg"},
   ];
