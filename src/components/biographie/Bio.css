@@ -1,0 +1,24 @@
+.bio-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.color-letter-capital {
+    color: var(--blue);
+}
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 70px;
+}
+
+.subtitle-bio {
+    font-size: 30px;
+}
+
+.text-bio {
+    text-align: center;
+}

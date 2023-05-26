@@ -1,0 +1,8 @@
+.main-title {
+    font-family: curve;
+}
+
+.color-letter-title {
+    font-family: curve;
+    color: var(--blue)
+}

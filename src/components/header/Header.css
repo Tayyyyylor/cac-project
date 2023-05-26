@@ -1,0 +1,8 @@
+.header-container {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
