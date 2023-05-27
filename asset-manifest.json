@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cac-project/static/css/main.30114bf9.css",
+    "main.js": "/cac-project/static/js/main.88171fb4.js",
+    "static/js/787.ee59d5f5.chunk.js": "/cac-project/static/js/787.ee59d5f5.chunk.js",
+    "static/media/hoftype.otf": "/cac-project/static/media/hoftype.ca97e090e40483b7e982.otf",
+    "static/media/Curve-UltraBold-Italic.otf": "/cac-project/static/media/Curve-UltraBold-Italic.4a2fc80495bc1d7f5bca.otf",
+    "index.html": "/cac-project/index.html",
+    "main.30114bf9.css.map": "/cac-project/static/css/main.30114bf9.css.map",
+    "main.88171fb4.js.map": "/cac-project/static/js/main.88171fb4.js.map",
+    "787.ee59d5f5.chunk.js.map": "/cac-project/static/js/787.ee59d5f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30114bf9.css",
+    "static/js/main.88171fb4.js"
+  ]
+}
