@@ -4,7 +4,7 @@
     position: absolute;
     z-index: 10;
     top: 3px;
-    left: 20px;
+    right: 20px;
     height: 50px;
     width: 35px;
     border: none;
@@ -50,15 +50,17 @@
     position: absolute;
     width: 100%;
     min-height: 23vh;
-    top: 74px;
+    padding: 1rem;
+    top: 54px;
     left: 0;
     display: flex;
     z-index: 10;
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
+    opacity: 0.8;
     background: white;
-    transform: translateX(-100%);
+    transform: translateY(-150%);
     transition: transform 0.3s cubic-bezier(0.73, 0.11, 0.67, 0.84);
 }
 nav.active {
